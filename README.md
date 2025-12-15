@@ -1,2 +1,7 @@
-# My_Portfolio
-Personal portfolio app developed using Flutter and FlutterFlow, including sections for projects, services, about, and contact, with responsive design and clean, maintainable code structure.
+# MahmoudPortofolio
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
